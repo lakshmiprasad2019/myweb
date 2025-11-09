@@ -112,7 +112,7 @@
 <body>
   <div class="container">
     <header class="header">
-      <h1>Welcome to Fusion - This is your final project for b047 in MicroServices</h1>
+      <h1>Welcome to Fusion - This is your final project for b031 Monolythic</h1>
       <div class="social">
         <a href="#"><i class="fab fa-facebook"></i></a>
         <a href="#"><i class="fab fa-instagram"></i></a>
